@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhe Wang, Ph.D."
+title                    : "Zhe Wang"
 title_separator          : "-"
-name                     : &name "Zhe Wang"
+name                     : &name "Zhe Wang, Ph.D."
 description              : &description "Zhe Wang's academic portfolio - Postdoctoral scholar at NCEAS, UC Santa Barbara"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhe-nceasUCSB.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
